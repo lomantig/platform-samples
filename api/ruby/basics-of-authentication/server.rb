@@ -1,4 +1,4 @@
-require 'sinatra'
+require 'lomantig'
 require 'rest-client'
 require 'json'
 
